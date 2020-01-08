@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "Styled-Components";
 import defaultImg from "../images/room-1.jpeg";
 
 const StyledHero = styled.header`
