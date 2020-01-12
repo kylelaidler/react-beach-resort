@@ -439,6 +439,8 @@ h6 {
 .roomslist {
   padding: 5rem 0;
 }
+
+/* this is where we can change the size of the blocks */
 .roomslist-center {
   width: 80vw;
   margin: 0 auto;
