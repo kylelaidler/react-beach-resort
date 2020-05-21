@@ -11,7 +11,7 @@ export default function Home() {
 		<Hero>
 			<Banner title="how can I help" subtitle="find a place and help someone">
 			<Link to='/rooms' className="btn-primary">
-			find a review
+			find
 			</Link>
 			</Banner>
 
