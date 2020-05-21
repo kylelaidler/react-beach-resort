@@ -71,8 +71,8 @@ export default class SingleRoom extends Component {
                 Rating :
                 {capacity > 1 ? `${capacity} stars` : `${capacity} star`}
               </h6>
-              <h6>{pets ? "pets allowed" : "yes, we recommend them"}</h6>
-              <h6>{breakfast && "projects completed on time"}</h6>
+              <h6>{pets ? "top rating" : "good rating"}</h6>
+              <h6>{breakfast && "punctual"}</h6>
             </article>
           </div>
 
